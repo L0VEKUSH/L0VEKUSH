@@ -31,7 +31,7 @@
   <rect x="72" y="70" width="5" height="180" rx="2.5" fill="url(#accent)"/>
   <text x="108" y="133" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">Lovekush Kumar</text>
   <text x="111" y="177" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">Computer Engineering Undergraduate</text>
-  <text x="111" y="211" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.1">BACKEND  ·  FULL-STACK  ·  SOFTWARE ENGINEERING</text>
+  <text x="111" y="211" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.1">BACKEND  ·  FULL-STACK  ·  MACHINE LEARNING  ·  DATA ANALYTICS</text>
   <path d="M111 239h270" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
   <text x="111" y="267" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Building, learning, and engineering with purpose.</text>
 </svg>
