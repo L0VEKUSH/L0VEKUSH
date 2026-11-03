@@ -51,32 +51,36 @@ My current technical interests are **backend engineering, API development, datab
 
 </div>
 
-## Selected projects
+## Featured projects
 
-### [HiTrack — Cricket Live Score](https://github.com/L0VEKUSH/hitrack)
-A cricket-focused live-score project built around a JavaScript backend and web frontend. Its declared backend stack includes **Node.js, Express, MongoDB, and Mongoose**.
+A selection of projects across software engineering, machine learning, and data analytics. Open a repository to explore its code, setup, and implementation details.
 
-**Focus:** Backend development · Database integration · Web application development
+### Software engineering
 
-### [SpendPilot](https://github.com/L0VEKUSH/spendpilot)
-A personal-finance and savings-focused web application built with **Next.js, React, TypeScript, and Tailwind CSS**.
+| Project | What it demonstrates |
+|---|---|
+| [**HiTrack — Cricket Live Score**](https://github.com/L0VEKUSH/hitrack) | Cricket-focused web application; backend stack includes Node.js, Express, MongoDB, and Mongoose. |
+| [**SpendPilot**](https://github.com/L0VEKUSH/spendpilot) | Personal-finance web application built with Next.js, React, TypeScript, and Tailwind CSS. |
+| [**SHATVIKA**](https://github.com/L0VEKUSH/SHATVIKA) | Web application project using a modern JavaScript/TypeScript stack. |
+| [**SYNC-KIET**](https://github.com/L0VEKUSH/SYNC-KIET) | Collaborative campus-focused project; see repository history for contribution context. |
 
-**Focus:** Full-stack web development · TypeScript · User-facing application design
+### Machine learning & AI
 
-### [Credit Scoring Model](https://github.com/L0VEKUSH/CodeAlpha_CreditScoringModel)
-An educational machine-learning project exploring classification models on the German Credit dataset using **Python and scikit-learn**, with a Streamlit interface.
+| Project | What it demonstrates |
+|---|---|
+| [**Customer Churn Intelligence**](https://github.com/L0VEKUSH/Customer-Churn-Prediction) | Churn prediction workflow with EDA, preprocessing, Logistic Regression, Random Forest, XGBoost, evaluation metrics, and a Streamlit dashboard. |
+| [**Handwritten Character Recognition**](https://github.com/L0VEKUSH/CodeAlpha_HandwrittenCharacterRecognition) | CNN-based A–Z character classification using EMNIST, TensorFlow/Keras, and Streamlit. The README reports 93.60% test accuracy on the EMNIST test set. |
+| [**Animal Detector**](https://github.com/L0VEKUSH/AnimalDetector) | YOLO-based image, video, and webcam detection with a model-training pipeline and CSV/JSON detection logs. |
+| [**Smart Attendance System**](https://github.com/L0VEKUSH/Smart-Attendance) | Face-recognition attendance workflow using LBPH and a CNN-based emotion model, with CSV/XLSX exports. |
+| [**Credit Scoring Model**](https://github.com/L0VEKUSH/CodeAlpha_CreditScoringModel) | Classification project using Python and scikit-learn on the German Credit dataset. |
+| [**Breast Cancer Classification API**](https://github.com/L0VEKUSH/CA2-GenAI) | Educational scikit-learn model served with FastAPI, with input validation, pytest tests, Docker, and GitHub Actions. Not intended for medical diagnosis. |
 
-**Focus:** Machine learning · Classification · Model comparison
+### Data analytics & business intelligence
 
-### [SHATVIKA](https://github.com/L0VEKUSH/SHATVIKA)
-A web application project developed with a modern JavaScript/TypeScript stack.
-
-**Focus:** Web application development
-
-### [SYNC-KIET](https://github.com/L0VEKUSH/SYNC-KIET)
-A collaborative campus-focused project. The repository includes its upstream contribution history and implementation details.
-
-**Focus:** Collaborative development · Exploring an existing codebase
+| Project | What it demonstrates |
+|---|---|
+| [**Financial Health Dashboard — Power BI**](https://github.com/L0VEKUSH/Financial-Health-Dashboard-PowerBI) | Interactive financial KPI dashboard covering revenue, expenses, profitability, cash flow, and a six-month revenue forecast. |
+| [**Sales Forecasting Intelligence**](https://github.com/L0VEKUSH/Codec_Sales_Forecasting) | Retail sales analysis and forecasting with time-based features, lag variables, Random Forest regression, and a Streamlit dashboard. |
 
 ## Current learning & engineering priorities
 
