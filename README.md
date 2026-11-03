@@ -2,7 +2,7 @@
 
 <img src="assets/profile-header.svg" alt="Lovekush Kumar — Computer Engineering Undergraduate" width="100%" />
 
-### Backend & Full-Stack Development · Software Engineering
+### Backend & Full-Stack Development · Machine Learning · Data Analytics
 
 Building practical software, learning how systems work, and improving through deliberate engineering.
 
@@ -18,7 +18,7 @@ Building practical software, learning how systems work, and improving through de
 
 I am pursuing a **B.Tech in Computer Engineering at KIET Deemed to be University (2024–2028)**. I enjoy designing and developing web applications, working with backend technologies, and solving programming problems.
 
-My current technical interests are **backend engineering, API development, database design, data structures and algorithms, and applied machine learning**. I value readable code, clear documentation, reproducible development workflows, and learning through building.
+My current technical interests are **backend engineering, API development, database design, data structures and algorithms, applied machine learning, and data analysis**. I value readable code, clear documentation, reproducible development workflows, and learning through building.
 
 - **Education:** B.Tech, Computer Engineering — KIET Deemed to be University
 - **Primary interests:** Backend systems, full-stack applications, software engineering
