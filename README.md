@@ -1,8 +1,8 @@
 <div align="center">
 
-# Lovekush Kumar
+<img src="assets/profile-header.svg" alt="Lovekush Kumar — Computer Engineering Undergraduate" width="100%" />
 
-### Computer Engineering Undergraduate · Backend & Full-Stack Development
+### Backend & Full-Stack Development · Software Engineering
 
 Building practical software, learning how systems work, and improving through deliberate engineering.
 
